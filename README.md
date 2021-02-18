@@ -1,12 +1,12 @@
 # node-red-contrib-taiponrock
 
-## 概要
-本ノードは、インプットとして渡されてきたアルファベット文字列をすべて強制的に「Taiponrock」という文字列へ変換するためのノードです。
+## Overview
+This node is a node for forcibly converting all the alphabet character strings passed as input to the character string "Taipon rock".
 
-渡されてきたインプットパラメーターが文字列以外でも、強制的に「Taiponrock」が返却されます。もはや避けようがありません。
+Even if the input parameter passed is not a character string, "Taiponrock" is forcibly returned. It can't be avoided anymore.
 
-本処理では、JavaScriptにおけるStringオブジェクトのインスタンスメソッドであるtoLowerCaseを実行していたサンプルノードをなんの意味もない定数を返却するだけの処理に変更した素晴らしいノードです。
+In this process, it is a wonderful node that changed the sample node that was executing toLowerCase, which is an instance method of String object in JavaScript, to a process that just returns a meaningless constant.
 
 
-## 使用方法
-渡すパラメーターの文字列をすべて強制的に「Taiponrock」へ変換したい場合に使用します。自己顕示欲や承認欲求を満たすためだけの自己満足として使用されます。自身の精神衛生上を考慮し、使用頻度には十分ご注意ください。
+## how to use
+It is used when you want to forcibly convert all the character strings of the parameters to be passed to "Taiponrock". It is used as complacency only to satisfy the desire for self-revealing and approval. DON'T publish this kind of nodes, because it will be definitly spam node.
